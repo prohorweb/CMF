@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "prohorweb/cmf",
   "version": "dev-master",
   "description": "CMF based on Yii2 Framework and EasyiiCMS - Development package",
@@ -19,6 +20,28 @@
           "role" : "Developer"
       }
   ],
+=======
+    "name": "prohorweb/cmf",
+    "version": "dev-master",
+    "description": "CMF based on Yii2 Framework and EasyiiCMS - Development package",
+    "keywords": ["easyii"],
+    "homepage": "http://prohorweb.com",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "support": {
+        "wiki": "http://easyiicms.com/docs",
+        "source": "https://github.com/prohorweb/CMF.git",
+        "issues": "https://github.com/prohorweb/CMF/issues"
+    },
+    "authors": [
+        {
+            "name": "Prohor Efimov",
+            "email": "prohorweb@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+>>>>>>> 5b1b8ae72c2514d9411c34838c20d2a7899e0ed0
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
