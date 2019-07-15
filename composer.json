@@ -5,7 +5,7 @@
     "keywords": ["easyii"],
     "homepage": "http://prohorweb.com",
     "type": "yii2-extension",
-    "license": "GNU GPL V3",
+    "license": "BSD-3-Clause",
     "minimum-stability": "dev",
     "support": {
         "wiki": "http://easyiicms.com/docs",
