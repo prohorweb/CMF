@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
     "name": "prohorweb/cmf",
     "version": "dev-master",
     "description": "CMF based on Yii2 Framework and EasyiiCMS - Development package",
-    "keywords": ["easyii, yii2, CMF"],
-=======
-    "name": "prohorweb/CMF",
-    "version": "dev-master",
-    "description": "CMF based on Yii2 Framework and EasyiiCMS - Development package",
     "keywords": ["easyii"],
->>>>>>> 8e1c319ca330fb662e8c56c34b88c545e0d761d7
     "homepage": "http://prohorweb.com",
     "type": "yii2-extension",
     "license": "GNU GPL V3",
